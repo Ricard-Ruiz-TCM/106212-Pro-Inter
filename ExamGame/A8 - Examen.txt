@@ -1,0 +1,11 @@
+Al esquema de joc que descarregareu teniu un vaixell que es mou amb les fletxes del cursor. En aquesta ocasió aquest vaixell es un vaixell de rescat. Degut al canvi climàtic el nivell del mar a augmentat i el vaixell haurà de rescatar als diferents animals que s’apropen a la vora de la mar demanat ajuda.
+
+·        [10 punts] Fes aparèixer de forma aleatòria en un interval de 3 a 6 segons un animal a un punt aleatori de la platja. (a la carpeta textures teniu imatges d’animals).
+
+·        [10 punts] Els animals romanen a la platja només un temps. Aquest temps s’anirà decrementant en funció del número d’animals rescatats. (es a dir, quants més animals rescatats més ràpid desapareixen).
+
+·        [10 punts] Quan els animals son rescatats pugen al vaixell i a partir d’aquest moment es dibuixen a sobre del vaixell i l’acompanyen en el seus moviments. (caldrà dibuixar-los petits per a que no tapin el vaixell).
+
+·        [10 punts] Quan el vaixell rescata 3 animals del mateix tipus el joc s’acaba i mostra una pantalla de final de victoria.
+
+·        [5 punts] Afegeix una splash screen a l’inici que doni nom al joc.
