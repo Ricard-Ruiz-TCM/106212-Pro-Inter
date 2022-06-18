@@ -1,0 +1,18 @@
+<card>
+    <name> </name>
+    <cost> </cost>
+    <image> </image>
+    <type> </type>
+    <sub_type> </sub_type>
+    <rarity> </rarity>
+    <edition> </edition>
+    <planeswalker loyalty=""> </planeswalker>
+    <effect>
+        <action power="+" value=""></action>
+    </effect>
+    <description>
+    </description>
+    <artist> </artist>
+    <attack> </attack>
+    <defense> </defense>
+</card>

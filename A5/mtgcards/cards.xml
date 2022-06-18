@@ -1,0 +1,51 @@
+<card>
+    <name> Dark Ritual </name>
+    <cost> B </cost>
+    <image> dark_ritual_ME4.png </image>
+    <type> Instant </type>
+    <sub_type> </sub_type>
+    <rarity> Common </rarity>
+    <edition> Masters Edition IV </edition>
+    <planeswalker loyalty="0"> False </planeswalker>
+    <effect> Add BBB to your mana pool. </effect>
+    <description> </description>
+    <artist> Illus. Sandra Everingham </artist>
+    <attack> </attack>
+    <defense> </defense>
+</card>
+
+<card>
+    <name> Camel </name>
+    <cost> P </cost>
+    <image> camel_ARN.png </image>
+    <type> Summon </type>
+    <sub_type> Camel </sub_type>
+    <rarity> Common </rarity>
+    <edition> Arabian Nights </edition>
+    <planeswalker loyalty="0"> False </planeswalker>
+    <effect> Bands \n All creatrures attacking in a band with Camel are immune to damage donde by Deserts. </effect>
+    <description> Everyone knew Walid was a pious man, for he had been blessed with many sons, many jewels, and a great many Camels. </description>
+    <artist> Illus. Sandra Everingham </artist>
+    <attack> 0 </attack>
+    <defense> 1 </defense>
+</card>
+
+<card>
+    <name> Liliana, Death Mage </name>
+    <cost> 4BB </cost>
+    <image> liliana_death_mage_M21.png </image>
+    <type> Legendary Planeswalker </type>
+    <sub_type> Liliana </sub_type>
+    <rarity> Mythic Rare </rarity>
+    <edition> Core Set 2021 </edition>
+    <planeswalker loyalty="4"> True </planeswalker>
+    <effect> 
+        <action power="+" value="1"> Return up to one target creature card from your graveyard to your hand. </action>
+        <action power="-" value="3"> Destroy target creature. Its controller loses 2 life. </action>
+        <action power="-" value="7"> Target opponent loses 2 life for each creature card in their graveyard. </action>
+    </effect>
+    <description>  </description>
+    <artist> Kieran Yanner </artist>
+    <attack> 0 </attack>
+    <defense> 0 </defense>
+</card>

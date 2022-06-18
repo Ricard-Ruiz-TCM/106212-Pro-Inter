@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+  <!-- Modificaicón de "UNIT_MISSILE_CRUISER" -->
+  <Units>
+    <Update>
+      <Where Type="UNIT_MISSILE_CRUISER"/>
+      <Set Combat="50"/>
+    </Update>
+  </Units>
+
+  <!-- Eliminación del Lider Napoleon -->
+	<Leaders>
+		<Delete Type="LEADER_NAPOLEON" />
+	</Leaders>
+  
+</GameData>
