@@ -1,0 +1,10 @@
+A6: Scripting amb Lua
+Opened: dilluns, 1 novembre 2021, 14:19
+Due: dissabte, 4 desembre 2021, 23:59
+Per a realitzar aquesta activitat et proporcionem un projecte de Unity on hi ha un fons i un sprite vermell. També veuràs un "player.lua" dins de la carpeta "StreamingAssets" i un "PlayerScript.cs" dins de "Assets". El que es demana es aconseguir que el sprite es mogui de forma erràtica variant la seva direcció de forma aleatòria cada cert temps.
+
+Per a aconseguir-ho haurem de seguir les següents passes:
+
+[30 punts] Configurar el proxy per a que "mapegi" els getters i setters de les variables que creguis convenients.
+[30 punts] A la funció Start del playerScript.cs fer que es llegeixin tots els arxius "lua" de la carpeta "streamingAssets"
+[40 punts] A la funció Update del playerScript s'ha d'actualitzar la posició en funció de les variables de direcció i/o velocitat. I s'haurà de cridar a la funció update del script en lua per a que actualitzi les variables.
